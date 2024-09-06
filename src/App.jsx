@@ -9,6 +9,9 @@ function App() {
   return (
     <>
       <h3>alka</h3>
+      <h2>sa</h2>
+      <h1>sasda</h1>
+      
     </>
   )
 }
